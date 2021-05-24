@@ -34,7 +34,7 @@
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
-    "@types/node": "^13.9.3",
+    "@types/node": "^15.0.1",
     "browserify": "^16.5.1",
     "chai": "^4.2.0",
     "chai-bytes": "^0.1.2",
